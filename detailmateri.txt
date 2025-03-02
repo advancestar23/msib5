@@ -1,0 +1,7 @@
+ini merupakan rincian materi
+  1. dasar dasar pemrograman dart
+  2. fluter
+  3. github
+  4. design pattern
+  5. design database
+  6. belajar backend
